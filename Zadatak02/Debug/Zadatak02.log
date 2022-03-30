@@ -1,0 +1,6 @@
+﻿  Pravokutnik.cpp
+  Source.cpp
+D:\Algebra\2. semestar\Strukture podataka i algoritmi\Vjezbe_kuci_SPA\Zadatak02\Source.cpp(15,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Algebra\2. semestar\Strukture podataka i algoritmi\Vjezbe_kuci_SPA\Zadatak02\Source.cpp(20,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Zadatak02.vcxproj -> D:\Algebra\2. semestar\Strukture podataka i algoritmi\Vjezbe_kuci_SPA\Debug\Zadatak02.exe
