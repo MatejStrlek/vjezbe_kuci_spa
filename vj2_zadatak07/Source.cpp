@@ -22,7 +22,7 @@ void print(string& s)
 }
 int main()
 {
-	ifstream in("Arrays.txt");
+	ifstream in("Text.txt");
 	if (!in)
 	{
 		cout << "unable to open file" << endl;
