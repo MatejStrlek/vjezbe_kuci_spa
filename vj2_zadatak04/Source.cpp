@@ -7,7 +7,7 @@ int main() {
 
 	try
 	{
-		Pravokutnik p(-5, 7);
+		Pravokutnik p(5, 7);
 		cout << p.oblik('*', '-', true);
 		cout << endl;
 		cout << p.oblik('^', '#', false);

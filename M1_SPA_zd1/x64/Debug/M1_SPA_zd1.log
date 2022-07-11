@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Algebra\2. semestar\Strukture podataka i algoritmi\Vjezbe_kuci_SPA\M1_SPA_zd1\Source.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  M1_SPA_zd1.vcxproj -> D:\Algebra\2. semestar\Strukture podataka i algoritmi\Vjezbe_kuci_SPA\x64\Debug\M1_SPA_zd1.exe
